@@ -12,3 +12,7 @@ Current findings:
 
 Future work:
 - Solve problem analytically and compare with simulation results
+
+Links:
+- [Simulation Solution (Python)](simulation.py)
+- [Analytical Solution (PDF)] (coming soon)
