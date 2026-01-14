@@ -16,3 +16,5 @@ Future work:
 Links:
 - [Simulation Solution (Python)](simulation.py)
 - [Analytical Solution (PDF)] (coming soon)
+
+[⬅️ Back to My Portfolio](https://brycepyburn.github.io/)
