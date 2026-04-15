@@ -11,7 +11,7 @@ Current findings:
 - The average loss position is 11.19
 
 Future work:
-- Solve problem analytically and compare with simulation results
+- Consider a modified game in which the player can choose which card he names before he flips each one. With a rational player, what is the new probability of success? What about if the player is perfectly irrational?
 
 Links:
 - [Simulation Solution (Python)](simulation.py)
