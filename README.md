@@ -16,5 +16,3 @@ Future work:
 Links:
 - [Simulation Solution (Python)](simulation.py)
 - [Analytical Solution (PDF)](Flip_Probability.pdf)
-
-[⬅️ Back to My Portfolio](https://brycepyburn.github.io/)
