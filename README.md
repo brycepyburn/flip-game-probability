@@ -1,4 +1,4 @@
-This project uses a Monte Carlo simulation to determine the win probability of a single-player, luck-based card game.
+This project uses a Monte Carlo simulation to verify the analytically derived win probability of a single-player, luck-based card game.
 
 Rules:
 - A standard 52-card deck is shuffled
